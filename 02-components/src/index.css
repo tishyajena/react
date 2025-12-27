@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100%;
+  weight: 100%
+}
+.card{
+  color: blue;
+  background-color: aliceblue;
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 10px;
+
+}
+
+.nav{
+  background-color:tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  padding: 20px;
+}
